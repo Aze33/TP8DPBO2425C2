@@ -105,5 +105,5 @@ Berisi file HTML yang disisipi PHP untuk menampilkan data kepada pengguna.
 * **educations**: Folder khusus tampilan modul Riwayat Pendidikan.
 
 # 🎥 Dokumentasi
-
+https://github.com/user-attachments/assets/cbc9b4e6-1edc-45b6-b44d-2c0aec382bee
 
