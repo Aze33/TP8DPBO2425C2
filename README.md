@@ -39,22 +39,22 @@ TP_MVC/
 │   └── EducationController.php # Mengatur CRUD data Riwayat Pendidikan
 │
 ├── 📂 models/                  # [MODEL] Akses Data & Query Database
-│   ├── Lecturer.php            # Query SQL untuk tabel 'lecturers'
-│   ├── Course.php              # Query SQL untuk tabel 'courses'
-│   └── Education.php           # Query SQL untuk tabel 'educations'
+│   ├── Lecturers.php            # Query SQL untuk tabel 'lecturers'
+│   ├── Courses.php              # Query SQL untuk tabel 'courses'
+│   └── Educations.php           # Query SQL untuk tabel 'educations'
 │
 ├── 📂 views/                   # [VIEW] Antarmuka Pengguna (User Interface)
 │   ├── 📂 includes/            # Komponen UI parsial (Reusable)
 │   │   └── navbar.php          # Navigasi menu utama
-│   ├── 📂 lecturers/           # Tampilan modul Dosen
+│   ├── 📂 Lecturers/           # Tampilan modul Dosen
 │   │   ├── index.php           # Tabel data dosen
 │   │   ├── create.php          # Form tambah dosen
 │   │   └── edit.php            # Form edit dosen
-│   ├── 📂 courses/             # Tampilan modul Mata Kuliah
+│   ├── 📂 Courses/             # Tampilan modul Mata Kuliah
 │   │   ├── index.php
 │   │   ├── create.php
 │   │   └── edit.php
-│   └── 📂 educations/          # Tampilan modul Riwayat Pendidikan
+│   └── 📂 Educations/          # Tampilan modul Riwayat Pendidikan
 │       ├── index.php
 │       ├── create.php
 │       └── edit.php
